@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/star-wars-movies/static/css/main.d253fe1e.css",
+    "main.js": "/star-wars-movies/static/js/main.2233b27b.js",
+    "index.html": "/star-wars-movies/index.html",
+    "main.d253fe1e.css.map": "/star-wars-movies/static/css/main.d253fe1e.css.map",
+    "main.2233b27b.js.map": "/star-wars-movies/static/js/main.2233b27b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d253fe1e.css",
+    "static/js/main.2233b27b.js"
+  ]
+}
