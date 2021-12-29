@@ -1,6 +1,6 @@
 # Visit Github Pages to access the deployed code
 
-[https://faizan-aka.github.io/usememo]
+[https://faizan-aka.github.io/star-wars-movies]
 
 # Getting Started with Create React App
 
